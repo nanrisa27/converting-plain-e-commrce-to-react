@@ -1,1 +1,1 @@
-# converting-plain-e-commrce-to-react
+# converting-plain-e-comm-website-to-react
